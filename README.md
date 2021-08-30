@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zqpie
 - 👀 I’m interested in ... Linux, Python, and, machine learning
 - 🌱 I’m currently learning ... Python, Bash and C++
-- 💞️ I’m looking to collaborate on ...  
+- 💞️ I’m looking to collaborate on ...  Linux from scratch
 - 📫 How to reach me ... zqpierson@gmail.com 
 
 <!---
