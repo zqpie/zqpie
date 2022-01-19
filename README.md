@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zqpie
+- 👋 Hi, I’m @zqpie aka Zander
 - 👀 I’m interested in ... Linux, Python, and, machine learning
 - 🌱 I’m currently learning ... Python, Bash and C++
 - 💞️ I’m looking to collaborate on ...  Linux from scratch and fallen Dragon
